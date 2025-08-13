@@ -10,3 +10,4 @@ int main()
     printf(" this is sum:%d",sum);
     getch();
 }
+
